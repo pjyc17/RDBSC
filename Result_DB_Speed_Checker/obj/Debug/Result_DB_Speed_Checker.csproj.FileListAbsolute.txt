@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Result_DB_Speed_Checker\Result_DB_Speed_Checker\obj\Debug\Result_DB_Speed_Checker.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Result_DB_Speed_Checker\Result_DB_Speed_Checker\obj\Debug\MainWindow.g.cs
+C:\Users\user\source\repos\Result_DB_Speed_Checker\Result_DB_Speed_Checker\obj\Debug\App.g.cs
+C:\Users\user\source\repos\Result_DB_Speed_Checker\Result_DB_Speed_Checker\obj\Debug\Result_DB_Speed_Checker_MarkupCompile.cache
+C:\Users\user\source\repos\Result_DB_Speed_Checker\Result_DB_Speed_Checker\obj\Debug\Result_DB_Speed_Checker_MarkupCompile.lref
+C:\Users\user\source\repos\Result_DB_Speed_Checker\Result_DB_Speed_Checker\bin\Debug\Result_DB_Speed_Checker.exe.config
+C:\Users\user\source\repos\Result_DB_Speed_Checker\Result_DB_Speed_Checker\bin\Debug\Result_DB_Speed_Checker.exe
+C:\Users\user\source\repos\Result_DB_Speed_Checker\Result_DB_Speed_Checker\bin\Debug\Result_DB_Speed_Checker.pdb
+C:\Users\user\source\repos\Result_DB_Speed_Checker\Result_DB_Speed_Checker\obj\Debug\MainWindow.baml
+C:\Users\user\source\repos\Result_DB_Speed_Checker\Result_DB_Speed_Checker\obj\Debug\Result_DB_Speed_Checker.g.resources
+C:\Users\user\source\repos\Result_DB_Speed_Checker\Result_DB_Speed_Checker\obj\Debug\Result_DB_Speed_Checker.Properties.Resources.resources
+C:\Users\user\source\repos\Result_DB_Speed_Checker\Result_DB_Speed_Checker\obj\Debug\Result_DB_Speed_Checker.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Result_DB_Speed_Checker\Result_DB_Speed_Checker\obj\Debug\Result_DB_Speed_Checker.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Result_DB_Speed_Checker\Result_DB_Speed_Checker\obj\Debug\Result_DB_Speed_Checker.exe
+C:\Users\user\source\repos\Result_DB_Speed_Checker\Result_DB_Speed_Checker\obj\Debug\Result_DB_Speed_Checker.pdb

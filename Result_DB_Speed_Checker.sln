@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Result_DB_Speed_Checker", "Result_DB_Speed_Checker\Result_DB_Speed_Checker.csproj", "{5BF5CC90-4FA3-4041-AED4-2E98C28A92DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BF5CC90-4FA3-4041-AED4-2E98C28A92DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BF5CC90-4FA3-4041-AED4-2E98C28A92DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BF5CC90-4FA3-4041-AED4-2E98C28A92DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BF5CC90-4FA3-4041-AED4-2E98C28A92DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4614E1B9-5A1E-428F-860E-BB7388D8D01E}
+	EndGlobalSection
+EndGlobal
